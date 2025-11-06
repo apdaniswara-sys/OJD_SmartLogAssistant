@@ -1,0 +1,69 @@
+# ===================================
+# 🐍 Python
+# ===================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+env/
+venv/
+.env/
+.venv/
+env_chatbot/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Logs
+*.log
+logs/
+debug.log
+
+# ===================================
+# 🧩 Project Specific
+# ===================================
+# Data and cache
+data/*.bak
+data/*.tmp
+data/*.log
+data/~$*
+data/.DS_Store
+
+# Optional large CSV (can include sample.csv)
+data/masterparts.csv
+
+# Voice cache
+audio_cache/
+*.wav
+*.mp3
+
+# GUI temporary files
+*.db
+*.sqlite3
+
+# ===================================
+# 🪟 OS / Editor
+# ===================================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+.code-workspace
+
+# JetBrains / PyCharm
+.idea/
+
+# ===================================
+# 🧪 Tests / Notebooks
+# ===================================
+*.ipynb_checkpoints
+tests/__pycache__/
+notebooks/__pycache__/
