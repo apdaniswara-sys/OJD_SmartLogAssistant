@@ -1,4 +1,10 @@
 pandas
 speechrecognition
 pyttsx3
-tk
+pyaudio
+simpleaudio
+coqui-tts
+torch
+torchaudio
+
+
