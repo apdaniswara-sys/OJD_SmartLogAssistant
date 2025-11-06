@@ -33,7 +33,7 @@ data/~$*
 data/.DS_Store
 
 # Optional large CSV (can include sample.csv)
-data/masterparts.csv
+data/master_parts.csv
 
 # Voice cache
 audio_cache/

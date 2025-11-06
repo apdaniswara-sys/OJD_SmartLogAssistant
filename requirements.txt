@@ -1,0 +1,4 @@
+pandas
+speechrecognition
+pyttsx3
+tk
